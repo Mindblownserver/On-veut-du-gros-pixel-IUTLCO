@@ -1,0 +1,18 @@
+# Le défi: On veut du gros pixel !
+## Lien vers le projet
+
+
+## Comment démarer l'application web?
+Il faut démarrrer la partie back et puis la partie front
+
+## Comment démarer l'application front?
+Vous pourriez installer et démarer quarkus dans la machine suivant [le lien officiel](https://quarkus.io/get-started/)<br>
+
+Ensuite, vous pouvez démarer le backend en executant le ligne suivant dans le répértoire du projet:
+`quarkus dev`
+## Comment démarer l'application front?
+Installez les packages npm <br>
+`npm install`
+
+Démarez l'application front
+`npm start`

@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('./assets/OGSuperMario.ttf') format('truetype'); /* Reference to the TTF file */
+    font-weight: normal; /* Specify the font weight */
+    font-style: normal; /* Specify the font style */
+}
+
+
+body {
+  margin: 0;
+  font-family: "MyCustomFont";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
